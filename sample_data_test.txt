@@ -1,0 +1,9 @@
+
+He is not very happy. 1
+His behaviour is not good. 0
+People are lovely. 1
+bad price 0
+He is very user-friendly 1
+He is very hard 0
+He did not get his price 0
+His package is Amazing 1
